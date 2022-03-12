@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garvit</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Machine Learning / software developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvit-k" alt="garvit-k" /> </p>
 
 - 👨‍💻 All of my projects are available at <a href="https://garvitkothari.in">garvitkothari.in</a>
